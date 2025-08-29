@@ -1,0 +1,10 @@
+{
+  "test_cases": {
+    "homepage_url": "https://www.singaporeair.com",
+    "from_location": "Singapore",
+    "to_location_tokyo": "Tokyo",
+    "to_location_hk": "Hong Kong",
+    "to_code_tokyo": "NRT",
+    "to_code_hk": "HKG"
+  }
+}
